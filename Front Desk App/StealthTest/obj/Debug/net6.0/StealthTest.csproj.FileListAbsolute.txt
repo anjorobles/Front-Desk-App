@@ -1,0 +1,15 @@
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\bin\Debug\net6.0\StealthTest.exe
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\bin\Debug\net6.0\StealthTest.deps.json
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\bin\Debug\net6.0\StealthTest.runtimeconfig.json
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\bin\Debug\net6.0\StealthTest.dll
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\bin\Debug\net6.0\StealthTest.pdb
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\StealthTest.csproj.AssemblyReference.cache
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\StealthTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\StealthTest.AssemblyInfoInputs.cache
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\StealthTest.AssemblyInfo.cs
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\StealthTest.csproj.CoreCompileInputs.cache
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\StealthTest.dll
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\refint\StealthTest.dll
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\StealthTest.pdb
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\StealthTest.genruntimeconfig.cache
+C:\Users\Anjo Robles\source\repos\StealthTest\StealthTest\obj\Debug\net6.0\ref\StealthTest.dll
